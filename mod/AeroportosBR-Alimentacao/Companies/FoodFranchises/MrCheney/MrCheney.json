@@ -1,0 +1,30 @@
+{
+  "name": "Mr. Cheney",
+  "description": "Cookies quentinhos e milkshake.",
+  "customDescription": {
+    "pt-BR": "Cookies quentinhos e milkshake.",
+    "en": "Cookies quentinhos e milkshake."
+  },
+  "logoPath": "MrCheney.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "CookieMrCheney",
+    "Milkshake",
+    "CafeComLeite"
+  ],
+  "backgroundColor": {
+    "r": 86,
+    "g": 45,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 236,
+    "b": 200,
+    "a": 255
+  }
+}

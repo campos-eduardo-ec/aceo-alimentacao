@@ -1,0 +1,41 @@
+{
+  "name": "Havanna",
+  "description": "Cafeteria com mesas.",
+  "customDescription": {
+    "pt-BR": "Cafeteria com mesas.",
+    "en": "Cafeteria com mesas."
+  },
+  "logoPath": "Havanna.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Alfajor",
+    "Cappuccino",
+    "Espresso",
+    "CafeComDoceDeLeite"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 36,
+    "b": 84,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    }
+  ]
+}

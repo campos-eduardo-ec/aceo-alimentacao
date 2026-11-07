@@ -1,0 +1,41 @@
+{
+  "name": "Outback Steakhouse",
+  "description": "Steakhouse com salão próprio.",
+  "customDescription": {
+    "pt-BR": "Steakhouse com salão próprio.",
+    "en": "Steakhouse com salão próprio."
+  },
+  "logoPath": "OutbackSteakhouse.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BloominOnion",
+    "CostelaBarbecue",
+    "ChoppPilsen",
+    "PaoAustraliano"
+  ],
+  "backgroundColor": {
+    "r": 120,
+    "g": 30,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 214,
+    "b": 140,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    }
+  ]
+}

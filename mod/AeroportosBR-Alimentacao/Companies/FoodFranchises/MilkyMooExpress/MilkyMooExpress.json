@@ -1,0 +1,29 @@
+{
+  "name": "Milky Moo Express",
+  "description": "Balcão de shakes.",
+  "customDescription": {
+    "pt-BR": "Balcão de shakes.",
+    "en": "Balcão de shakes."
+  },
+  "logoPath": "MilkyMooExpress.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "MilkshakeMilkyMoo",
+    "Casquinha"
+  ],
+  "backgroundColor": {
+    "r": 250,
+    "g": 200,
+    "b": 220,
+    "a": 255
+  },
+  "textColor": {
+    "r": 90,
+    "g": 40,
+    "b": 60,
+    "a": 255
+  }
+}

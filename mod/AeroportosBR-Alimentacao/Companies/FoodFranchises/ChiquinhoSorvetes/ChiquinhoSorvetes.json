@@ -1,0 +1,40 @@
+{
+  "name": "Chiquinho Sorvetes",
+  "description": "Sorveteria com mesas.",
+  "customDescription": {
+    "pt-BR": "Sorveteria com mesas.",
+    "en": "Sorveteria com mesas."
+  },
+  "logoPath": "ChiquinhoSorvetes.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Casquinha",
+    "ShakeMix",
+    "Milkshake"
+  ],
+  "backgroundColor": {
+    "r": 230,
+    "g": 30,
+    "b": 110,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    }
+  ]
+}

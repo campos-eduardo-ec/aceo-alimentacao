@@ -1,0 +1,41 @@
+{
+  "name": "Grand Cru",
+  "description": "Bar de vinhos.",
+  "customDescription": {
+    "pt-BR": "Bar de vinhos.",
+    "en": "Bar de vinhos."
+  },
+  "logoPath": "GrandCru.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "RedWine",
+    "VinBlanc",
+    "Champagne",
+    "TabuaDeFrios"
+  ],
+  "backgroundColor": {
+    "r": 90,
+    "g": 16,
+    "b": 40,
+    "a": 255
+  },
+  "textColor": {
+    "r": 230,
+    "g": 200,
+    "b": 140,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    }
+  ]
+}

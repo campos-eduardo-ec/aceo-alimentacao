@@ -1,0 +1,48 @@
+{
+  "name": "Subway Grande",
+  "description": "Loja grande, com salão.",
+  "customDescription": {
+    "pt-BR": "Loja grande, com salão.",
+    "en": "Loja grande, com salão."
+  },
+  "logoPath": "SubwayGrande.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "SanduicheSubway",
+    "CookieMrCheney",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 130,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 200,
+    "b": 0,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 4
+    },
+    {
+      "item": "Chair",
+      "amount": 8
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

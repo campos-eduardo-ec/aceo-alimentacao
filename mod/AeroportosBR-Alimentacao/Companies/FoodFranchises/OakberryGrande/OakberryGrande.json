@@ -1,0 +1,51 @@
+{
+  "name": "Oakberry Grande",
+  "description": "Loja grande.",
+  "customDescription": {
+    "pt-BR": "Loja grande.",
+    "en": "Loja grande."
+  },
+  "logoPath": "OakberryGrande.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "AcaiBowl",
+    "SmoothieAcai"
+  ],
+  "backgroundColor": {
+    "r": 40,
+    "g": 20,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 4
+    },
+    {
+      "item": "Chair",
+      "amount": 8
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "CafeFridge",
+      "amount": 6
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

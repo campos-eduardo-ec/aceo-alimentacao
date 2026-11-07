@@ -1,0 +1,30 @@
+{
+  "name": "McDonald's Sobremesas",
+  "description": "Quiosque de sorvete: casquinha, sundae e McFlurry.",
+  "customDescription": {
+    "pt-BR": "Quiosque de sorvete: casquinha, sundae e McFlurry.",
+    "en": "Quiosque de sorvete: casquinha, sundae e McFlurry."
+  },
+  "logoPath": "McdonaldSSobremesas.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Sundae",
+    "Casquinha",
+    "McFlurry"
+  ],
+  "backgroundColor": {
+    "r": 218,
+    "g": 41,
+    "b": 28,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 199,
+    "b": 44,
+    "a": 255
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "A Saideira",
+  "description": "O boteco do aeroporto: chope, petisco e caipirinha.",
+  "customDescription": {
+    "pt-BR": "O boteco do aeroporto: chope, petisco e caipirinha.",
+    "en": "O boteco do aeroporto: chope, petisco e caipirinha."
+  },
+  "logoPath": "ASaideira.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "ChoppPilsen",
+    "Coxinha",
+    "PastelDeFeira",
+    "Caipirinha",
+    "PorcaoDeFritas"
+  ],
+  "backgroundColor": {
+    "r": 120,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 230,
+    "b": 180,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    }
+  ]
+}

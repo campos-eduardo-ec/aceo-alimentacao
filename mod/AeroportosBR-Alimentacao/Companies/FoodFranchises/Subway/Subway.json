@@ -1,0 +1,40 @@
+{
+  "name": "Subway",
+  "description": "Loja com mesas.",
+  "customDescription": {
+    "pt-BR": "Loja com mesas.",
+    "en": "Loja com mesas."
+  },
+  "logoPath": "Subway.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "SanduicheSubway",
+    "CookieMrCheney",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 130,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 200,
+    "b": 0,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    }
+  ]
+}

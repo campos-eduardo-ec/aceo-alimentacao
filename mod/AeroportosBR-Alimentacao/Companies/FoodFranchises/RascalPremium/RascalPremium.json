@@ -1,0 +1,40 @@
+{
+  "name": "Rascal Premium",
+  "description": "Italiano premium com buffet e massas da casa.",
+  "customDescription": {
+    "pt-BR": "Italiano premium com buffet e massas da casa.",
+    "en": "Italiano premium com buffet e massas da casa."
+  },
+  "logoPath": "RascalPremium.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BuffetDeSaladas",
+    "MassaNaHora",
+    "RisotoDeFunghi"
+  ],
+  "backgroundColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 5
+    },
+    {
+      "item": "Chair",
+      "amount": 10
+    }
+  ]
+}

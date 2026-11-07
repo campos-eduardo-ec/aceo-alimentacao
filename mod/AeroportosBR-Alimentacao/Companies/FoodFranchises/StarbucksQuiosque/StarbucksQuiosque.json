@@ -1,0 +1,30 @@
+{
+  "name": "Starbucks Quiosque",
+  "description": "Quiosque de café para viagem.",
+  "customDescription": {
+    "pt-BR": "Quiosque de café para viagem.",
+    "en": "Quiosque de café para viagem."
+  },
+  "logoPath": "StarbucksQuiosque.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Frappuccino",
+    "CafeCoado",
+    "CookieMrCheney"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 112,
+    "b": 74,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

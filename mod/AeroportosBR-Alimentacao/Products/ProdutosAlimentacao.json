@@ -1,0 +1,1619 @@
+{
+  "array": [
+    {
+      "productType": "AcaiBowl",
+      "quality": 0,
+      "pricePerUnit": 36,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "AcaiTigela",
+      "quality": 0,
+      "pricePerUnit": 24,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Alfajor",
+      "quality": 0,
+      "pricePerUnit": 14,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "AmendoasCaramelizadas",
+      "quality": 0,
+      "pricePerUnit": 18,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BaldeDeFrango",
+      "quality": 0,
+      "pricePerUnit": 34,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BatataRecheada",
+      "quality": 0,
+      "pricePerUnit": 28,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BatataRustica",
+      "quality": 0,
+      "pricePerUnit": 18,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BatataRustica",
+      "quality": 2,
+      "pricePerUnit": 45,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Beirute",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BigMac",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BigMacPremium",
+      "quality": 0,
+      "pricePerUnit": 40,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BigMacPremium",
+      "quality": 2,
+      "pricePerUnit": 100,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BloominOnion",
+      "quality": 0,
+      "pricePerUnit": 48,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BloominOnion",
+      "quality": 2,
+      "pricePerUnit": 120,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BuffetDeSaladas",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BuffetDeSaladas",
+      "quality": 2,
+      "pricePerUnit": 150,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BurgerJohnnyRockets",
+      "quality": 0,
+      "pricePerUnit": 44,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "BurgerJohnnyRockets",
+      "quality": 2,
+      "pricePerUnit": 110,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CachorroQuente",
+      "quality": 0,
+      "pricePerUnit": 16,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CachorroQuenteDuplo",
+      "quality": 0,
+      "pricePerUnit": 22,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CafeCoado",
+      "quality": 0,
+      "pricePerUnit": 8,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CafeComDoceDeLeite",
+      "quality": 0,
+      "pricePerUnit": 14,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CafeComLeite",
+      "quality": 0,
+      "pricePerUnit": 10,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CafeReserve",
+      "quality": 0,
+      "pricePerUnit": 34,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CafeReserve",
+      "quality": 2,
+      "pricePerUnit": 85,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Caipirinha",
+      "quality": 0,
+      "pricePerUnit": 28,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CarpaccioFasano",
+      "quality": 0,
+      "pricePerUnit": 90,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CarpaccioFasano",
+      "quality": 2,
+      "pricePerUnit": 225,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Casquinha",
+      "quality": 0,
+      "pricePerUnit": 6,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CastanhasCaramelizadas",
+      "quality": 0,
+      "pricePerUnit": 20,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Chocottone",
+      "quality": 0,
+      "pricePerUnit": 32,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "ChoppPilsen",
+      "quality": 0,
+      "pricePerUnit": 18,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "ChoppPilsen",
+      "quality": 2,
+      "pricePerUnit": 45,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CookieMrCheney",
+      "quality": 0,
+      "pricePerUnit": 12,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CookieMrCheney",
+      "quality": 2,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Cornetto",
+      "quality": 0,
+      "pricePerUnit": 22,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CostelaBarbecue",
+      "quality": 0,
+      "pricePerUnit": 70,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CostelaBarbecue",
+      "quality": 2,
+      "pricePerUnit": 175,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Coxinha",
+      "quality": 0,
+      "pricePerUnit": 12,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "CremeBrulee",
+      "quality": 0,
+      "pricePerUnit": 45,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Empanada",
+      "quality": 0,
+      "pricePerUnit": 14,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Esfiha",
+      "quality": 0,
+      "pricePerUnit": 10,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "FeijoadaCompleta",
+      "quality": 0,
+      "pricePerUnit": 48,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "FrangoComQuiabo",
+      "quality": 0,
+      "pricePerUnit": 40,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Frappuccino",
+      "quality": 0,
+      "pricePerUnit": 26,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Frappuccino",
+      "quality": 2,
+      "pricePerUnit": 65,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "GelatoChocolate",
+      "quality": 0,
+      "pricePerUnit": 20,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "GelatoFiorDiLatte",
+      "quality": 0,
+      "pricePerUnit": 18,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "GelatoPistache",
+      "quality": 0,
+      "pricePerUnit": 22,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "GuaranaLata",
+      "quality": 0,
+      "pricePerUnit": 8,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Homus",
+      "quality": 0,
+      "pricePerUnit": 22,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Kibe",
+      "quality": 0,
+      "pricePerUnit": 12,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "MassaNaHora",
+      "quality": 0,
+      "pricePerUnit": 34,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "MassaNaHora",
+      "quality": 2,
+      "pricePerUnit": 85,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "McFlurry",
+      "quality": 0,
+      "pricePerUnit": 16,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "McFlurry",
+      "quality": 2,
+      "pricePerUnit": 40,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "MilkShakeOvomaltine",
+      "quality": 0,
+      "pricePerUnit": 24,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "MilkShakeOvomaltine",
+      "quality": 2,
+      "pricePerUnit": 60,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "MilkshakeMilkyMoo",
+      "quality": 0,
+      "pricePerUnit": 32,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Panetone",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PaninoItaliano",
+      "quality": 0,
+      "pricePerUnit": 55,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PaoAustraliano",
+      "quality": 0,
+      "pricePerUnit": 16,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PaoAustraliano",
+      "quality": 2,
+      "pricePerUnit": 40,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PaoDeQueijo",
+      "quality": 0,
+      "pricePerUnit": 12,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PaoDeQueijoRecheado",
+      "quality": 0,
+      "pricePerUnit": 16,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PastaGero",
+      "quality": 0,
+      "pricePerUnit": 110,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PastelDeFeira",
+      "quality": 0,
+      "pricePerUnit": 14,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PizzaPepperoni",
+      "quality": 0,
+      "pricePerUnit": 26,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PorcaoDeFritas",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "PratoFeito",
+      "quality": 0,
+      "pricePerUnit": 36,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "RisotoDeFunghi",
+      "quality": 0,
+      "pricePerUnit": 58,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "RisotoDeFunghi",
+      "quality": 2,
+      "pricePerUnit": 145,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Rondelli",
+      "quality": 0,
+      "pricePerUnit": 34,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "SaladaFit",
+      "quality": 0,
+      "pricePerUnit": 32,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "SanduicheSubway",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "ShakeMix",
+      "quality": 0,
+      "pricePerUnit": 18,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "SmoothieAcai",
+      "quality": 0,
+      "pricePerUnit": 30,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "SteakFrites",
+      "quality": 0,
+      "pricePerUnit": 120,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "SucoNatural",
+      "quality": 0,
+      "pricePerUnit": 14,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Sundae",
+      "quality": 0,
+      "pricePerUnit": 12,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "TabuaDeFrios",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "TiramisuFasano",
+      "quality": 0,
+      "pricePerUnit": 60,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "TiramisuFasano",
+      "quality": 2,
+      "pricePerUnit": 150,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "Whopper",
+      "quality": 0,
+      "pricePerUnit": 32,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    },
+    {
+      "productType": "WrapDeFrango",
+      "quality": 0,
+      "pricePerUnit": 26,
+      "imagePath": "",
+      "availableColors": [
+        {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 255
+        }
+      ],
+      "canHaveAnyColor": false,
+      "isRotatable": true,
+      "lockRotationToEvenAngles": true,
+      "isConsumeable": true,
+      "isCustom": true
+    }
+  ]
+}

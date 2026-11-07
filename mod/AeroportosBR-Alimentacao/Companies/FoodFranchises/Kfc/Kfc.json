@@ -1,0 +1,30 @@
+{
+  "name": "KFC",
+  "description": "Frango frito no balde.",
+  "customDescription": {
+    "pt-BR": "Frango frito no balde.",
+    "en": "Frango frito no balde."
+  },
+  "logoPath": "Kfc.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BaldeDeFrango",
+    "FrenchFries",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 163,
+    "g": 8,
+    "b": 12,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

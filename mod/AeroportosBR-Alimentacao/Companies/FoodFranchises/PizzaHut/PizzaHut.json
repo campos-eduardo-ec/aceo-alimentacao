@@ -1,0 +1,30 @@
+{
+  "name": "Pizza Hut",
+  "description": "Pizza no balcão para comer na praça de alimentação.",
+  "customDescription": {
+    "pt-BR": "Pizza no balcão para comer na praça de alimentação.",
+    "en": "Pizza no balcão para comer na praça de alimentação."
+  },
+  "logoPath": "PizzaHut.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "PizzaPepperoni",
+    "PizzaMargherita",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 200,
+    "g": 16,
+    "b": 46,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

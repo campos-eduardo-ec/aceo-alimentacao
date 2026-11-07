@@ -1,0 +1,46 @@
+{
+  "name": "McDonald's",
+  "description": "Restaurante com salão próprio.",
+  "customDescription": {
+    "pt-BR": "Restaurante com salão próprio.",
+    "en": "Restaurante com salão próprio."
+  },
+  "logoPath": "McdonaldS.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BigMac",
+    "Hamburger",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 218,
+    "g": 41,
+    "b": 28,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 199,
+    "b": 44,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    },
+    {
+      "item": "Plant",
+      "amount": 1
+    }
+  ]
+}

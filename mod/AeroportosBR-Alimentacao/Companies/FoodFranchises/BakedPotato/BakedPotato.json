@@ -1,0 +1,29 @@
+{
+  "name": "Baked Potato",
+  "description": "Batata recheada no balcão.",
+  "customDescription": {
+    "pt-BR": "Batata recheada no balcão.",
+    "en": "Batata recheada no balcão."
+  },
+  "logoPath": "BakedPotato.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BatataRecheada",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 94,
+    "g": 60,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 204,
+    "b": 0,
+    "a": 255
+  }
+}

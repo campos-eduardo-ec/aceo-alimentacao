@@ -1,0 +1,53 @@
+{
+  "name": "Habib's Grande",
+  "description": "Restaurante grande, com salão.",
+  "customDescription": {
+    "pt-BR": "Restaurante grande, com salão.",
+    "en": "Restaurante grande, com salão."
+  },
+  "logoPath": "HabibSGrande.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "Esfiha",
+    "Kibe",
+    "Beirute",
+    "Casquinha"
+  ],
+  "backgroundColor": {
+    "r": 200,
+    "g": 16,
+    "b": 46,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 214,
+    "b": 0,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 6
+    },
+    {
+      "item": "Chair",
+      "amount": 12
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "CookingStation",
+      "amount": 2
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

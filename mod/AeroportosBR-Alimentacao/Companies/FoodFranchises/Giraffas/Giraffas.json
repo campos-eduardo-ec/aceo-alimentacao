@@ -1,0 +1,30 @@
+{
+  "name": "Giraffas",
+  "description": "Rede brasileira de grelhados: arroz, feijão e bife.",
+  "customDescription": {
+    "pt-BR": "Rede brasileira de grelhados: arroz, feijão e bife.",
+    "en": "Rede brasileira de grelhados: arroz, feijão e bife."
+  },
+  "logoPath": "Giraffas.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "PratoFeito",
+    "Hamburger",
+    "GuaranaLata"
+  ],
+  "backgroundColor": {
+    "r": 255,
+    "g": 200,
+    "b": 0,
+    "a": 255
+  },
+  "textColor": {
+    "r": 120,
+    "g": 60,
+    "b": 20,
+    "a": 255
+  }
+}

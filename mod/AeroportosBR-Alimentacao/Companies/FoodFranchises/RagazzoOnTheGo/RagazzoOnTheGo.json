@@ -1,0 +1,30 @@
+{
+  "name": "Ragazzo On the Go",
+  "description": "Balcão para viagem.",
+  "customDescription": {
+    "pt-BR": "Balcão para viagem.",
+    "en": "Balcão para viagem."
+  },
+  "logoPath": "RagazzoOnTheGo.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Coxinha",
+    "Rondelli",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 120,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

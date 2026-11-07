@@ -1,0 +1,53 @@
+{
+  "name": "Burger King Grande",
+  "description": "Restaurante grande, com salão amplo.",
+  "customDescription": {
+    "pt-BR": "Restaurante grande, com salão amplo.",
+    "en": "Restaurante grande, com salão amplo."
+  },
+  "logoPath": "BurgerKingGrande.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "Whopper",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 80,
+    "g": 35,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 135,
+    "b": 50,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 5
+    },
+    {
+      "item": "Chair",
+      "amount": 10
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "CookingStation",
+      "amount": 3
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

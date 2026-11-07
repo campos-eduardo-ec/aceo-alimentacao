@@ -1,0 +1,48 @@
+{
+  "name": "Fasano",
+  "description": "Alta gastronomia italiana do Grupo Fasano, como no aeroporto executivo Catarina.",
+  "customDescription": {
+    "pt-BR": "Alta gastronomia italiana do Grupo Fasano, como no aeroporto executivo Catarina.",
+    "en": "Alta gastronomia italiana do Grupo Fasano, como no aeroporto executivo Catarina."
+  },
+  "logoPath": "Fasano.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "CarpaccioFasano",
+    "RisotoDeFunghi",
+    "TiramisuFasano"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 190,
+    "b": 140,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 5
+    },
+    {
+      "item": "Chair",
+      "amount": 10
+    },
+    {
+      "item": "Armchair",
+      "amount": 2
+    },
+    {
+      "item": "Plant",
+      "amount": 3
+    }
+  ]
+}

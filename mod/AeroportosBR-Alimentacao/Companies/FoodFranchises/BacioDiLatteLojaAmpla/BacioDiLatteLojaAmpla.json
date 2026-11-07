@@ -1,0 +1,53 @@
+{
+  "name": "Bacio di Latte Loja Ampla",
+  "description": "Loja ampla com mesas.",
+  "customDescription": {
+    "pt-BR": "Loja ampla com mesas.",
+    "en": "Loja ampla com mesas."
+  },
+  "logoPath": "BacioDiLatteLojaAmpla.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "GelatoPistache",
+    "GelatoChocolate",
+    "GelatoFiorDiLatte",
+    "Espresso"
+  ],
+  "backgroundColor": {
+    "r": 240,
+    "g": 234,
+    "b": 222,
+    "a": 255
+  },
+  "textColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 4
+    },
+    {
+      "item": "Chair",
+      "amount": 8
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "CafeFridge",
+      "amount": 6
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

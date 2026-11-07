@@ -1,0 +1,45 @@
+{
+  "name": "Burger King",
+  "description": "Restaurante com salão.",
+  "customDescription": {
+    "pt-BR": "Restaurante com salão.",
+    "en": "Restaurante com salão."
+  },
+  "logoPath": "BurgerKing.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "Whopper",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 80,
+    "g": 35,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 135,
+    "b": 50,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    },
+    {
+      "item": "Plant",
+      "amount": 1
+    }
+  ]
+}

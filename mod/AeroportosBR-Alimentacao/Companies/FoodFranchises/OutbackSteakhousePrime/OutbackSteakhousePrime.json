@@ -1,0 +1,41 @@
+{
+  "name": "Outback Steakhouse Prime",
+  "description": "Steakhouse premium, cortes especiais.",
+  "customDescription": {
+    "pt-BR": "Steakhouse premium, cortes especiais.",
+    "en": "Steakhouse premium, cortes especiais."
+  },
+  "logoPath": "OutbackSteakhousePrime.png",
+  "businessClass": 4,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BloominOnion",
+    "CostelaBarbecue",
+    "PaoAustraliano",
+    "ChoppPilsen"
+  ],
+  "backgroundColor": {
+    "r": 120,
+    "g": 30,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 214,
+    "b": 140,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 5
+    },
+    {
+      "item": "Chair",
+      "amount": 10
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Paçaí",
+  "description": "Açaí na tigela e sucos, com preço de rua.",
+  "customDescription": {
+    "pt-BR": "Açaí na tigela e sucos, com preço de rua.",
+    "en": "Açaí na tigela e sucos, com preço de rua."
+  },
+  "logoPath": "Pacai.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "AcaiTigela",
+    "SucoNatural",
+    "PaoDeQueijo"
+  ],
+  "backgroundColor": {
+    "r": 90,
+    "g": 30,
+    "b": 110,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

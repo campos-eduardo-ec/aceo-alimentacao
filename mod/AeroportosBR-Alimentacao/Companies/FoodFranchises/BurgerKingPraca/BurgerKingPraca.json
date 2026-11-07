@@ -1,0 +1,31 @@
+{
+  "name": "Burger King Praça",
+  "description": "Balcão na praça de alimentação, sem mesas próprias.",
+  "customDescription": {
+    "pt-BR": "Balcão na praça de alimentação, sem mesas próprias.",
+    "en": "Balcão na praça de alimentação, sem mesas próprias."
+  },
+  "logoPath": "BurgerKingPraca.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "Whopper",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 80,
+    "g": 35,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 135,
+    "b": 50,
+    "a": 255
+  }
+}

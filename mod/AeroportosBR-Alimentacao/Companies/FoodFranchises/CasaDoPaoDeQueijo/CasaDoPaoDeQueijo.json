@@ -1,0 +1,31 @@
+{
+  "name": "Casa do Pão de Queijo",
+  "description": "Pão de queijo quentinho e café no balcão. Presente nos três maiores aeroportos do país.",
+  "customDescription": {
+    "pt-BR": "Pão de queijo quentinho e café no balcão. Presente nos três maiores aeroportos do país.",
+    "en": "Pão de queijo quentinho e café no balcão. Presente nos três maiores aeroportos do país."
+  },
+  "logoPath": "CasaDoPaoDeQueijo.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "PaoDeQueijo",
+    "PaoDeQueijoRecheado",
+    "CafeCoado",
+    "CafeComLeite"
+  ],
+  "backgroundColor": {
+    "r": 196,
+    "g": 30,
+    "b": 46,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 214,
+    "b": 0,
+    "a": 255
+  }
+}

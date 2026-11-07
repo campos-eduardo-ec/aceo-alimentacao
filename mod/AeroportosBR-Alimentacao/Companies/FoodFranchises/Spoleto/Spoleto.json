@@ -1,0 +1,30 @@
+{
+  "name": "Spoleto",
+  "description": "Massa montada na hora.",
+  "customDescription": {
+    "pt-BR": "Massa montada na hora.",
+    "en": "Massa montada na hora."
+  },
+  "logoPath": "Spoleto.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "MassaNaHora",
+    "Lasagne",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 120,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Nescafé",
+  "description": "Quiosque de café rápido para quem está com pressa.",
+  "customDescription": {
+    "pt-BR": "Quiosque de café rápido para quem está com pressa.",
+    "en": "Quiosque de café rápido para quem está com pressa."
+  },
+  "logoPath": "Nescafe.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Espresso",
+    "Cappuccino",
+    "CafeCoado",
+    "PaoDeQueijo"
+  ],
+  "backgroundColor": {
+    "r": 200,
+    "g": 16,
+    "b": 46,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

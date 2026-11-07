@@ -1,0 +1,31 @@
+{
+  "name": "Casa Bauducco",
+  "description": "Padaria e café da marca dos panetones.",
+  "customDescription": {
+    "pt-BR": "Padaria e café da marca dos panetones.",
+    "en": "Padaria e café da marca dos panetones."
+  },
+  "logoPath": "CasaBauducco.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Panetone",
+    "Chocottone",
+    "PaoDeQueijo",
+    "Cappuccino"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 70,
+    "b": 140,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

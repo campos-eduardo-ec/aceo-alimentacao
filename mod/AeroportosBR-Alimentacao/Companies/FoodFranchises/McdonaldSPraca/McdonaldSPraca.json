@@ -1,0 +1,32 @@
+{
+  "name": "McDonald's Praça",
+  "description": "Balcão com cozinha na praça de alimentação, sem mesas próprias.",
+  "customDescription": {
+    "pt-BR": "Balcão com cozinha na praça de alimentação, sem mesas próprias.",
+    "en": "Balcão com cozinha na praça de alimentação, sem mesas próprias."
+  },
+  "logoPath": "McdonaldSPraca.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BigMac",
+    "Hamburger",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 218,
+    "g": 41,
+    "b": 28,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 199,
+    "b": 44,
+    "a": 255
+  }
+}

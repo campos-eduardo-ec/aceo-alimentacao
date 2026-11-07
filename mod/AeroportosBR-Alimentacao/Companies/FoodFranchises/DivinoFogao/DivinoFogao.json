@@ -1,0 +1,31 @@
+{
+  "name": "Divino Fogão",
+  "description": "Comida de fazenda no balcão da praça de alimentação.",
+  "customDescription": {
+    "pt-BR": "Comida de fazenda no balcão da praça de alimentação.",
+    "en": "Comida de fazenda no balcão da praça de alimentação."
+  },
+  "logoPath": "DivinoFogao.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "PratoFeito",
+    "FeijoadaCompleta",
+    "FrangoComQuiabo",
+    "GuaranaLata"
+  ],
+  "backgroundColor": {
+    "r": 150,
+    "g": 20,
+    "b": 20,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 220,
+    "b": 120,
+    "a": 255
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Starbucks Express",
+  "description": "Cafeteria. Uma das marcas mais presentes nos aeroportos brasileiros.",
+  "customDescription": {
+    "pt-BR": "Cafeteria. Uma das marcas mais presentes nos aeroportos brasileiros.",
+    "en": "Cafeteria. Uma das marcas mais presentes nos aeroportos brasileiros."
+  },
+  "logoPath": "StarbucksExpress.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Frappuccino",
+    "Espresso",
+    "Cappuccino",
+    "CookieMrCheney"
+  ],
+  "backgroundColor": {
+    "r": 0,
+    "g": 112,
+    "b": 74,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

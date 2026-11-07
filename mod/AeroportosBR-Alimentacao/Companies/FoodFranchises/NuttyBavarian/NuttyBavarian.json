@@ -1,0 +1,30 @@
+{
+  "name": "Nutty Bavarian",
+  "description": "Quiosque de amêndoas e castanhas caramelizadas na hora.",
+  "customDescription": {
+    "pt-BR": "Quiosque de amêndoas e castanhas caramelizadas na hora.",
+    "en": "Quiosque de amêndoas e castanhas caramelizadas na hora."
+  },
+  "logoPath": "NuttyBavarian.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "AmendoasCaramelizadas",
+    "CastanhasCaramelizadas",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 122,
+    "g": 62,
+    "b": 26,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 222,
+    "b": 150,
+    "a": 255
+  }
+}

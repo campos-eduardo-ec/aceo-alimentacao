@@ -1,0 +1,31 @@
+{
+  "name": "Bacio di Latte Express",
+  "description": "Balcão de gelato.",
+  "customDescription": {
+    "pt-BR": "Balcão de gelato.",
+    "en": "Balcão de gelato."
+  },
+  "logoPath": "BacioDiLatteExpress.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "GelatoPistache",
+    "GelatoChocolate",
+    "GelatoFiorDiLatte",
+    "Espresso"
+  ],
+  "backgroundColor": {
+    "r": 240,
+    "g": 234,
+    "b": 222,
+    "a": 255
+  },
+  "textColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  }
+}

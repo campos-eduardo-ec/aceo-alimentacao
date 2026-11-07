@@ -1,0 +1,30 @@
+{
+  "name": "Doog",
+  "description": "Cachorro-quente rápido no embarque.",
+  "customDescription": {
+    "pt-BR": "Cachorro-quente rápido no embarque.",
+    "en": "Cachorro-quente rápido no embarque."
+  },
+  "logoPath": "Doog.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "CachorroQuente",
+    "CachorroQuenteDuplo",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 255,
+    "g": 196,
+    "b": 0,
+    "a": 255
+  },
+  "textColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  }
+}

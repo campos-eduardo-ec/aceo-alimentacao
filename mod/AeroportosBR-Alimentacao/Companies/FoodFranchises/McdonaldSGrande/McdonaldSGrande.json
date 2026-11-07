@@ -1,0 +1,54 @@
+{
+  "name": "McDonald's Grande",
+  "description": "Restaurante grande, com salão amplo.",
+  "customDescription": {
+    "pt-BR": "Restaurante grande, com salão amplo.",
+    "en": "Restaurante grande, com salão amplo."
+  },
+  "logoPath": "McdonaldSGrande.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "BigMac",
+    "Hamburger",
+    "FrenchFries",
+    "Sundae",
+    "SoftDrink"
+  ],
+  "backgroundColor": {
+    "r": 218,
+    "g": 41,
+    "b": 28,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 199,
+    "b": 44,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 6
+    },
+    {
+      "item": "Chair",
+      "amount": 12
+    },
+    {
+      "item": "CafeCounter",
+      "amount": 2
+    },
+    {
+      "item": "CookingStation",
+      "amount": 3
+    },
+    {
+      "item": "Plant",
+      "amount": 3
+    }
+  ]
+}

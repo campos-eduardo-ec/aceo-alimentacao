@@ -1,0 +1,30 @@
+{
+  "name": "Habib's Quiosque",
+  "description": "Quiosque de esfiha para viagem.",
+  "customDescription": {
+    "pt-BR": "Quiosque de esfiha para viagem.",
+    "en": "Quiosque de esfiha para viagem."
+  },
+  "logoPath": "HabibSQuiosque.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Esfiha",
+    "Kibe",
+    "Casquinha"
+  ],
+  "backgroundColor": {
+    "r": 200,
+    "g": 16,
+    "b": 46,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 214,
+    "b": 0,
+    "a": 255
+  }
+}

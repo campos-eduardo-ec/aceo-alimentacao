@@ -1,0 +1,30 @@
+{
+  "name": "Fit Food",
+  "description": "Refeições leves e saladas.",
+  "customDescription": {
+    "pt-BR": "Refeições leves e saladas.",
+    "en": "Refeições leves e saladas."
+  },
+  "logoPath": "FitFood.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "SaladaFit",
+    "WrapDeFrango",
+    "GingerCarrotJuice"
+  ],
+  "backgroundColor": {
+    "r": 80,
+    "g": 160,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

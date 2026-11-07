@@ -1,0 +1,30 @@
+{
+  "name": "Chiquinho Sorvetes Quiosque",
+  "description": "Quiosque de sorvete.",
+  "customDescription": {
+    "pt-BR": "Quiosque de sorvete.",
+    "en": "Quiosque de sorvete."
+  },
+  "logoPath": "ChiquinhoSorvetesQuiosque.png",
+  "businessClass": 0,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Casquinha",
+    "ShakeMix",
+    "Milkshake"
+  ],
+  "backgroundColor": {
+    "r": 230,
+    "g": 30,
+    "b": 110,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

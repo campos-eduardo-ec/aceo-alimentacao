@@ -1,0 +1,31 @@
+{
+  "name": "Havanna Café",
+  "description": "Cafeteria dos alfajores argentinos.",
+  "customDescription": {
+    "pt-BR": "Cafeteria dos alfajores argentinos.",
+    "en": "Cafeteria dos alfajores argentinos."
+  },
+  "logoPath": "HavannaCafe.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "Alfajor",
+    "Cappuccino",
+    "Espresso",
+    "CafeComDoceDeLeite"
+  ],
+  "backgroundColor": {
+    "r": 20,
+    "g": 36,
+    "b": 84,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 180,
+    "b": 110,
+    "a": 255
+  }
+}

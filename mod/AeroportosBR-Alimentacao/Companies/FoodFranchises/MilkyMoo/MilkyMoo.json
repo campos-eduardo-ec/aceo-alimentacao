@@ -1,0 +1,43 @@
+{
+  "name": "Milky Moo",
+  "description": "Loja com mesas.",
+  "customDescription": {
+    "pt-BR": "Loja com mesas.",
+    "en": "Loja com mesas."
+  },
+  "logoPath": "MilkyMoo.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "MilkshakeMilkyMoo",
+    "Casquinha"
+  ],
+  "backgroundColor": {
+    "r": 250,
+    "g": 200,
+    "b": 220,
+    "a": 255
+  },
+  "textColor": {
+    "r": 90,
+    "g": 40,
+    "b": 60,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    },
+    {
+      "item": "Plant",
+      "amount": 1
+    }
+  ]
+}

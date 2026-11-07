@@ -1,0 +1,39 @@
+{
+  "name": "Oakberry",
+  "description": "Loja com mesas.",
+  "customDescription": {
+    "pt-BR": "Loja com mesas.",
+    "en": "Loja com mesas."
+  },
+  "logoPath": "Oakberry.png",
+  "businessClass": 1,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "AcaiBowl",
+    "SmoothieAcai"
+  ],
+  "backgroundColor": {
+    "r": 40,
+    "g": 20,
+    "b": 60,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    }
+  ]
+}

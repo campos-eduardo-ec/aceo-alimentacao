@@ -1,0 +1,49 @@
+{
+  "name": "Empório Fasano",
+  "description": "Empório e café do Grupo Fasano.",
+  "customDescription": {
+    "pt-BR": "Empório e café do Grupo Fasano.",
+    "en": "Empório e café do Grupo Fasano."
+  },
+  "logoPath": "EmporioFasano.png",
+  "businessClass": 3,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Cafe",
+  "products": [
+    "PaninoItaliano",
+    "Cornetto",
+    "Espresso",
+    "Cappuccino"
+  ],
+  "backgroundColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 214,
+    "g": 190,
+    "b": 140,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 2
+    },
+    {
+      "item": "Chair",
+      "amount": 4
+    },
+    {
+      "item": "Armchair",
+      "amount": 2
+    },
+    {
+      "item": "Plant",
+      "amount": 2
+    }
+  ]
+}

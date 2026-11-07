@@ -1,0 +1,41 @@
+{
+  "name": "Kozinha",
+  "description": "Cozinha árabe, sushi e café no mesmo salão.",
+  "customDescription": {
+    "pt-BR": "Cozinha árabe, sushi e café no mesmo salão.",
+    "en": "Cozinha árabe, sushi e café no mesmo salão."
+  },
+  "logoPath": "Kozinha.png",
+  "businessClass": 2,
+  "businessType": 5,
+  "CEOName": "Diretoria de Expansão",
+  "franchiseType": "Restaurant",
+  "products": [
+    "Esfiha",
+    "Kibe",
+    "Homus",
+    "Futomaki"
+  ],
+  "backgroundColor": {
+    "r": 30,
+    "g": 30,
+    "b": 30,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 180,
+    "b": 0,
+    "a": 255
+  },
+  "itemRequirements": [
+    {
+      "item": "Table",
+      "amount": 3
+    },
+    {
+      "item": "Chair",
+      "amount": 6
+    }
+  ]
+}
